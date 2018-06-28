@@ -1,3 +1,6 @@
+CCOLEMAN 
+As of 180628 this is the way we are installing Oracle JDK on Windows 10
+
 PATH
 %JAVA_HOME%\bin
 
