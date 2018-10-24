@@ -1,3 +1,5 @@
+<pre>
+
 ntfs-3g /dev/sda1 /mnt/windows –o force
 cd /mnt/windows/Windows/System32/config
 chntpw –l SAM
@@ -15,3 +17,4 @@ mount -t ntfs-3g -o remove_hiberfile /dev/sda? /mnt as an alternative.
     cd
     umount /mnt
     reboot
+</pre>
