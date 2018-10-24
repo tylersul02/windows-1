@@ -9,6 +9,8 @@
 ### git
 ### python3 (for all users)
 ### atom.io
+### java (jdk and jre from Oracle) . Download the most recent version.
+### cygwin (c++, ssh)
 ###
 ### https://docs.microsoft.com/en-us/sysinternals/
 ####  
