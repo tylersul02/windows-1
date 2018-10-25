@@ -5,8 +5,6 @@
 ## https://docs.microsoft.com/en-us/sysinternals/
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-###
 ### 2018 Cyber installation checklist - start with a VM (Wamware and KVM (virt-manager)
 ### * * * * * * * * * * * * * * * * * 
 ### process-explorer (see link above)
