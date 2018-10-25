@@ -1,3 +1,4 @@
+
 # windows
 ### Create a repository called windows in your gitub account. (example: https://github.com/tritech-cyber/windows)
 ### Create the foolowing folders in the respository : screenshots , system,  security and more to come
@@ -23,3 +24,4 @@
 ### https://www.python.org/downloads/windows/
 ### https://cygwin.com/install.html (setup-x86_64.exe)
 ### https://docs.microsoft.com/en-us/sysinternals/
+### https://www.oracle.com/technetwork/java/javase/downloads/index.html
