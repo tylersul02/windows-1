@@ -1,7 +1,7 @@
 
 # windows
 ### Create a repository called windows in your gitub account. (example: https://github.com/tritech-cyber/windows)
-### Create the foolowing folders in the respository : screenshots , system,  security and more to come
+### Create the following folders in the respository : screenshots , system,  security and more to come
 ## https://msdn.microsoft.com/en-us/  (Microsoft downloads)
 ## https://docs.microsoft.com/en-us/sysinternals/
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -15,8 +15,7 @@
 ### * git
 ### * python3 (for all users)
 ### * atom.io
-### * * java (jdk and jre from Oracle) . Download the most recent version.
-### * cygwin (c++, ssh)
+### * * java (jdk and jre from Oracle) . Use java 8
 ###
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Links
@@ -25,3 +24,6 @@
 ### https://cygwin.com/install.html (setup-x86_64.exe)
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+
