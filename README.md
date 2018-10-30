@@ -6,6 +6,8 @@
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
+### https://en.wikipedia.org/wiki/Microsoft_Baseline_Security_Analyzer
+### https://www.microsoft.com/en-us/download/details.aspx?id=19892
 ### God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}.
 ### TaskBarIcons.{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}.
 ### MyComputer.{20D04FE0-3AEA-1069-A2D8-08002B30309D}.
