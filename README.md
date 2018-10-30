@@ -34,6 +34,7 @@
 ### Printers.{2227A280-3AEA-1069-A2DE-08002B30309D}.
 ### 
 ### https://www.youtube.com/watch?v=QmE4LrBSChQ  (watch this and do it)
+### (Do this at home please.)  Download https://www.gpg4win.org  and play with it.
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Links
 ### https://git-scm.com/downloads
