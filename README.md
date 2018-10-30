@@ -29,6 +29,8 @@
 ### Wireless.{1FA9085F-25A2-489B-85D4-86326EEDCD87}.
 ### RDPConnections.{241D7C96-F8BF-4F85-B01F-E2B043341A4B}.
 ### Printers.{2227A280-3AEA-1069-A2DE-08002B30309D}.
+### 
+### https://www.youtube.com/watch?v=QmE4LrBSChQ  (watch this and do it)
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Links
 ### https://git-scm.com/downloads
