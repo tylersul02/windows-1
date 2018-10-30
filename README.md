@@ -7,7 +7,7 @@
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 ### https://en.wikipedia.org/wiki/Microsoft_Baseline_Security_Analyzer
-### https://www.microsoft.com/en-us/download/details.aspx?id=19892
+### https://www.microsoft.com/en-us/download/details.aspx?id=19892 (Microsoft Baseline Security Analyzer)
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ### 2018 Cyber installation checklist - start with a VM (Wamware and KVM (virt-manager)
 ### * * * * * * * * * * * * * * * * * 
@@ -36,6 +36,3 @@
 ### https://cygwin.com/install.html (setup-x86_64.exe)
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://www.oracle.com/technetwork/java/javase/downloads/index.html
-
-
-
