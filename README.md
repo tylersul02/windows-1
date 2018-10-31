@@ -42,3 +42,4 @@
 ### https://cygwin.com/install.html (setup-x86_64.exe)
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://www.oracle.com/technetwork/java/javase/downloads/index.html
+### https://signal.org/docs/
