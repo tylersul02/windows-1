@@ -7,7 +7,7 @@ Using the Windows 10 go to
 - - - Add the following to PATH and create vaiable JAVA_HOME for the local user.
 
 JAVA_HOME     C:\Program Files\Java\jdk-11.0.1
-PATH           %JAVA_HOME%\bin
+Add      %JAVA_HOME%\bin to path
 
 
 %appdata%
