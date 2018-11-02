@@ -10,6 +10,8 @@ JAVA_HOME     C:\Program Files\Java\jdk-11.0.1
 Add      %JAVA_HOME%\bin to path
 
 
+Type java -version at terminal (Powershell)
+
 %appdata%
 %localappdata%
 
