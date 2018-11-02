@@ -7,19 +7,39 @@
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 ### https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 ### https://en.wikipedia.org/wiki/Microsoft_Baseline_Security_Analyzer
-### https://www.microsoft.com/en-us/download/details.aspx?id=19892 (Microsoft Baseline Security Analyzer)
+#### https://www.microsoft.com/en-us/download/details.aspx?id=19892 (Microsoft Baseline Security Analyzer)
+#### (the above is out of date>)
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-### 2018 Cyber installation checklist - start with a VM (Wamware and KVM (virt-manager)
+### 2018 Cyber installation checklist - start with a VM (Wamware)
 ### * * * * * * * * * * * * * * * * * 
 ### * process-explorer (see link above)(upload the output to github.com/user/windows/docs/
 ### * tcpview (upload output the to github.com/user/windows/docs/)
-### * * firefox and chrome
-### * git
-### * python3 (for all users)
-### * atom.io
-### * putty
-### * cygwin
-### * * java (jdk and jre from Oracle) . Use java 8 ot 11
+#WINDDOWS VM (VMWARE) CHECKLIST
+_____ Create a "windows" repo in your github account.
+_____ Add the following folder: screenshots, system, security, docs and ...
+_____ Process explorer - upload text output to docs
+_____ Install and run tcpview - upload text output to docs
+_____ Change the name of your computer (hostname)
+_____ Install firefox and chrome
+_____ Install and run Packettracer
+_____ Install and use git
+_____ Install and use atom.io
+_____ Install and use putty (64bit)
+_____ Install and use cygwin
+_____ Configure Cygwin for ssh
+_____ Configure Cygwin to compile c code.
+_____ Compile and C code using Cygwin.
+_____ Install JDK from Oracle (8 and/or 11)
+_____  Configure classpath for JDK. (Caution)
+_____  Compile and run JAVA,
+_____  Enable GOD MODE ++
+_____  Install gpg4win and send an encrypted textfile to  . . .
+Look at the following using file explorer: %appdata%  and %localappdata%
+_____ Upload a screenshots of the result of %appdata% to github
+_____ Upload a screenshots of the result of %localappdata% to github
+_____ Screenshot your mmc with 3 windows users with one user in a custom group.
+_____ Create folder on your desktop and share it.  Hvae someone add files to that folder.
+. . . .
 ### * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 ### Enable God Mode ++
 ### God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}.
@@ -42,4 +62,4 @@
 ### https://cygwin.com/install.html (setup-x86_64.exe)
 ### https://docs.microsoft.com/en-us/sysinternals/
 ### https://www.oracle.com/technetwork/java/javase/downloads/index.html
-### https://signal.org/docs/
+### https://signal.org/docs/  (Look at this.)
