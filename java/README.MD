@@ -1,7 +1,10 @@
-CCOLEMAN 
+<pre>
 As of 181102 this is the way we are installing Oracle JDK on Windows 11
-Using
-Control Panel\System and Security\System
+Using the Windows 10 go to
+- Control Panel\System and Security\System
+- Then click Advanced System Settings
+- - Click Environmental Varaibles
+- - - Add the following to PATH and create vaiable JAVA_HOME for the local user.
 
 JAVA_HOME     C:\Program Files\Java\jdk-11.0.1
 PATH           %JAVA_HOME%\bin
@@ -12,6 +15,6 @@ PATH           %JAVA_HOME%\bin
 
 old notes
 
-
+</pre>
 
 
