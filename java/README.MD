@@ -7,7 +7,7 @@ Using the Windows 10 go to
 - - - Add the following to PATH and create vaiable JAVA_HOME for the local user.
 
 JAVA_HOME     C:\Program Files\Java\jdk-11.0.1
-Add      %JAVA_HOME%\bin to path
+Add      %JAVA_HOME%\bin to Path 
 
 
 Type java -version at terminal (Powershell)
