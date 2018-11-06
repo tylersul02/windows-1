@@ -1,0 +1,107 @@
+[System Process]	0	TCP	owi143	56611	a23-57-50-27.deploy.static.akamaitechnologies.com	https	TIME_WAIT	10	1,596	112	148,930						
+[System Process]	0	TCP	owi143	56662	a23-204-49-96.deploy.static.akamaitechnologies.com	http	TIME_WAIT	1	213	4	4,608						
+chrome.exe	6208	TCP	owi143	54360	2a.b0.1632.ip4.static.sl-reverse.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	55010	ie-in-f188.1e100.net	5228	ESTABLISHED			3	1,338						
+chrome.exe	6208	TCP	owi143	56368	151.101.0.133	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56502	a104-100-65-154.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56503	a104-100-65-154.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56504	151.101.0.133	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56506	64.4.54.254	https	ESTABLISHED	3	8,021	3	1,308						
+chrome.exe	6208	TCP	owi143	56511	a104-80-89-41.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56513	a104-100-65-154.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56514	a104-100-65-154.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56515	a104-100-65-154.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	6208	TCP	owi143	56535	64.4.54.254	https	ESTABLISHED	12	32,156	12	5,232						
+chrome.exe	6208	UDP	owi143	5353	*	*											
+chrome.exe	6208	UDP	owi143	5353	*	*											
+chrome.exe	6208	UDPV6	owi143	5353	*	*											
+chrome.exe	6208	TCP	owi143	56596	151.101.1.69	https	ESTABLISHED	23	3,294	275	359,859						
+chrome.exe	6208	TCP	owi143	56597	a23-35-96-128.deploy.static.akamaitechnologies.com	https	ESTABLISHED	4	2,038	7	6,675						
+chrome.exe	6208	TCP	owi143	56601	104.16.24.34	https	ESTABLISHED	5	1,089	8	6,126						
+chrome.exe	6208	TCP	owi143	56604	a23-60-72-11.deploy.static.akamaitechnologies.com	https	ESTABLISHED	7	2,976	81	112,860						
+chrome.exe	6208	TCP	owi143	56605	a23-60-72-11.deploy.static.akamaitechnologies.com	https	ESTABLISHED	4	1,671	9	10,381						
+chrome.exe	6208	TCP	owi143	56612	a23-44-160-109.deploy.static.akamaitechnologies.com	https	ESTABLISHED	3	2,125	5	5,069						
+chrome.exe	6208	TCP	owi143	56615	129.33.139.56	https	ESTABLISHED	4	2,517	7	4,923						
+chrome.exe	6208	TCP	owi143	56676	23.185.0.2	https	ESTABLISHED	24	2,870	958	1,603,320						
+chrome.exe	6208	TCP	owi143	56678	99.84.74.35	https	ESTABLISHED	5	1,045	10	7,000						
+chrome.exe	6208	TCP	owi143	56679	23.185.0.2	http	ESTABLISHED	1	394	18	24,232						
+chrome.exe	6208	TCP	owi143	56680	23.185.0.2	http	ESTABLISHED	1	394	15	19,783						
+chrome.exe	6208	TCP	owi143	56681	23.185.0.2	http	ESTABLISHED	1	394	10	13,356						
+chrome.exe	6208	TCP	owi143	56682	23.185.0.2	http	ESTABLISHED	1	394	8	10,972						
+chrome.exe	6208	TCP	owi143	56683	23.185.0.2	http	ESTABLISHED	1	394	13	17,904						
+chrome.exe	6208	TCP	owi143	56684	23.185.0.2	http	ESTABLISHED	2	788	45	62,106						
+chrome.exe	6208	TCP	owi143	56686	151.101.52.134	https	ESTABLISHED	4	1,614	7	6,398						
+chrome.exe	6208	TCP	owi143	56689	ec2-54-190-5-3.us-west-2.compute.amazonaws.com	https	ESTABLISHED	7	3,206	10	7,033						
+chrome.exe	6208	TCP	owi143	56690	104.19.197.151	https	ESTABLISHED	5	1,064	9	6,441						
+chrome.exe	6208	TCP	owi143	56691	151.101.2.110	https	ESTABLISHED	5	995	14	16,739						
+chrome.exe	6208	TCP	owi143	56692	bam-6.nr-data.net	https	ESTABLISHED	3	1,560	6	3,249						
+chrome.exe	6208	TCP	owi143	56693	ec2-54-190-5-3.us-west-2.compute.amazonaws.com	https	CLOSE_WAIT	3	3,567	7	5,626						
+chrome.exe	6208	UDP	owi143	51662	*	*		1	23	1	20						
+chrome.exe	6208	TCP	owi143	56740	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56741	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56742	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56743	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56744	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56745	203.7.198.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56746	202.166.186.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56747	202.166.186.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56748	202.166.186.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56749	202.166.186.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56750	202.166.186.253	http	SYN_SENT										
+chrome.exe	6208	TCP	owi143	56751	202.166.186.253	http	SYN_SENT										
+dasHost.exe	3284	UDP	owi143	ws-discovery	*	*											
+dasHost.exe	3284	UDP	owi143	ws-discovery	*	*											
+dasHost.exe	3284	UDP	owi143	53941	*	*											
+dasHost.exe	3284	UDPV6	owi143	3702	*	*											
+dasHost.exe	3284	UDPV6	owi143	3702	*	*											
+dasHost.exe	3284	UDPV6	owi143	53942	*	*											
+gpg-agent.exe	968	TCP	owi143	49968	owi143	0	LISTENING										
+gpg-agent.exe	968	TCP	owi143	49968	localhost	49975	ESTABLISHED										
+gpg-agent.exe	968	TCP	owi143	49968	localhost	49976	ESTABLISHED										
+gpg-agent.exe	968	TCP	owi143	49968	localhost	49996	ESTABLISHED										
+gpg-agent.exe	968	TCP	owi143	49968	localhost	50002	ESTABLISHED										
+gpg-agent.exe	968	TCP	owi143	49969	owi143	0	LISTENING										
+gpg-agent.exe	968	TCP	owi143	49970	owi143	0	LISTENING										
+gpg-agent.exe	968	TCP	owi143	49971	owi143	0	LISTENING										
+gpg-connect-agent.exe	6336	TCP	owi143	49975	localhost	49968	ESTABLISHED										
+gpg-connect-agent.exe	5784	TCP	owi143	49976	localhost	49968	ESTABLISHED										
+gpg-connect-agent.exe	6728	TCP	owi143	49996	localhost	49968	ESTABLISHED										
+gpg-connect-agent.exe	2556	TCP	owi143	50002	localhost	49968	ESTABLISHED										
+kleopatra.exe	6780	TCP	owi143	49984	owi143	0	LISTENING										
+lsass.exe	608	TCP	owi143	49669	owi143	0	LISTENING										
+lsass.exe	608	TCPV6	owi143	49669	owi143	0	LISTENING										
+scdaemon.exe	5352	TCP	owi143	49998	owi143	0	LISTENING										
+services.exe	600	TCP	owi143	49668	owi143	0	LISTENING										
+services.exe	600	TCPV6	owi143	49668	owi143	0	LISTENING										
+spoolsv.exe	1916	TCP	owi143	49667	owi143	0	LISTENING										
+spoolsv.exe	1916	TCPV6	owi143	49667	owi143	0	LISTENING										
+svchost.exe	840	TCP	owi143	epmap	owi143	0	LISTENING										
+svchost.exe	3988	TCP	owi143	5040	owi143	0	LISTENING										
+svchost.exe	1148	TCP	owi143	49665	owi143	0	LISTENING										
+svchost.exe	400	TCP	owi143	49666	owi143	0	LISTENING										
+svchost.exe	2524	TCP	owi143	49678	52.173.28.179	https	ESTABLISHED										
+svchost.exe	3348	UDP	owi143	ssdp	*	*											
+svchost.exe	3348	UDP	owi143	ssdp	*	*											
+svchost.exe	3988	UDP	owi143	5050	*	*											
+svchost.exe	1720	UDP	owi143	5353	*	*											
+svchost.exe	1720	UDP	owi143	llmnr	*	*											
+svchost.exe	3348	UDP	owi143	53939	*	*											
+svchost.exe	3348	UDP	owi143	53940	*	*											
+svchost.exe	2620	UDP	owi143	65101	*	*											
+svchost.exe	840	TCPV6	owi143	epmap	owi143	0	LISTENING										
+svchost.exe	1148	TCPV6	owi143	49665	owi143	0	LISTENING										
+svchost.exe	400	TCPV6	owi143	49666	owi143	0	LISTENING										
+svchost.exe	3348	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	3348	UDPV6	[fe80:0:0:0:484:9f86:e5ce:3d84]	1900	*	*											
+svchost.exe	1720	UDPV6	owi143	5353	*	*											
+svchost.exe	1720	UDPV6	owi143	5355	*	*											
+svchost.exe	3348	UDPV6	[fe80:0:0:0:484:9f86:e5ce:3d84]	53937	*	*											
+svchost.exe	3348	UDPV6	[0:0:0:0:0:0:0:1]	53938	*	*											
+System	4	TCP	owi143	netbios-ssn	owi143	0	LISTENING										
+System	4	TCP	owi143	microsoft-ds	owi143	0	LISTENING										
+System	4	UDP	owi143	netbios-ns	*	*											
+System	4	UDP	owi143	netbios-dgm	*	*											
+System	4	TCPV6	owi143	microsoft-ds	owi143	0	LISTENING										
+Video.UI.exe	6076	TCP	owi143	49705	a23-44-160-62.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+wininit.exe	468	TCP	owi143	49664	owi143	0	LISTENING										
+wininit.exe	468	TCPV6	owi143	49664	owi143	0	LISTENING										
